@@ -1,9 +1,8 @@
 # CustomUserModel
 A Django project showcasing how to create a custom user model.
 
-## STEP BY STEP
 
-### Getting started
+## Getting started
 
 Steps:
 
