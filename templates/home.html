@@ -1,1 +1,24 @@
-<h1>heloo, world!</h1>
+{% extends 'base.html' %}
+{% block title %}
+HOME
+{% endblock title %}
+{% block content %}
+<main role="main" class="container text-center">
+
+  <div class="starter-template">
+    <h1>COUSTOM USER MODLE</h1>
+    <p class="lead">
+    A Django project showcasing how to create a custom user model..<br>
+    </p>
+  </div>
+
+</main>
+<main role="main" class="">
+  <div class="jumbotron  ">
+    <h1>github</h1>
+    <p class="lead">django project go the source code in github</p>
+    <a class="btn btn-lg btn-primary" href="https://github.com/mahmoudswedani/CustomUserModel" role="button">github &raquo;</a>
+  </div>
+</main>
+
+{% endblock content %}
