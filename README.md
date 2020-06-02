@@ -1,5 +1,5 @@
-# CustomUserModel
-A Django project showcasing how to create a custom user model.
+# Registration
+A Django project showcasing how to create a Log in, Sign up, Log out.
 
 
 ## Getting started
